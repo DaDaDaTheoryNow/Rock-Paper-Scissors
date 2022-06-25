@@ -4,7 +4,7 @@ import 'package:fluttertoast/fluttertoast.dart';
 import 'package:page_transition/page_transition.dart';
 import 'package:rock_paper_scissors/main.dart';
 import 'package:rock_paper_scissors/screens/Agree_play_screen.dart';
-import 'package:rock_paper_scissors/screens/ads_screen/Ads_screen.dart';
+import 'package:rock_paper_scissors/screens/Ads_screen.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 class SecondPlayerFinish extends StatefulWidget {
